@@ -2,7 +2,10 @@
 Build-Data-Dashboards-With-Tableau
 
 ## Project Description
-This project help us to know the sum of flight cancellations in the United States, the reasons for flight cancellations and the sum of Airport departure delay
+Flight delay and cancellations seems to be a big issue in the United States. In this
+project, I have made a dashboard of sum of flight cancellations in each states by day
+of week and also found reasons for flight cancellations and Airports with sum of their
+cancelled flights by months.
 
 For this project I used a Business Intelligent Tool like Tableau because it provides an excellent visualization and also it is easy to implement
 
